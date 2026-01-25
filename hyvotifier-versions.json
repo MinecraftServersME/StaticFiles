@@ -2,6 +2,7 @@
   "schema": 1,
   "modId": "HyVotifier",
   "releases": [
+    { "version": "1.8.0", "date": "2026-01-25", "url": "https://www.curseforge.com/hytale/mods/hytale-votifier/files/7526668" },
     { "version": "1.7.0", "date": "2026-01-25", "url": "https://www.curseforge.com/hytale/mods/hytale-votifier/files/7521401" },
     { "version": "1.6.1", "date": "2026-01-22", "url": "https://www.curseforge.com/hytale/mods/hytale-votifier/files/7507207" },
     { "version": "1.6.0", "date": "2026-01-22", "url": "https://www.curseforge.com/hytale/mods/hytale-votifier/files/7506087" }
